@@ -41,7 +41,7 @@ Installation
 To run the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/varunc10/Intern.git
-Install dependencies: git install
+Install dependencies: npm install
 
 
 Configure the project:
