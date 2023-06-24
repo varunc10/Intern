@@ -52,9 +52,11 @@ Set up the MongoDB database and provide the connection URI.
 
 Run the Project:
 
-Frontend: npm start
+First start the backend server then the frontend so that the frontend has the api to fetch the data.
 
 Backend: node Backend
+
+Frontend: npm start
 
 Export to csv: node export
 
